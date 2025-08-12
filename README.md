@@ -1,1 +1,1 @@
-# incremental-batch-elt-pipeline-aws-snowflake-dbt
+# Incremental-Batch-ELT-Pipeline-aws-snowflake-dbt
