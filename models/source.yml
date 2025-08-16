@@ -1,0 +1,7 @@
+version: 2
+sources:
+  - name: movielens
+    schema: RAW
+    tables:
+      - name: olist_orders
+        identifier: olist_orders
